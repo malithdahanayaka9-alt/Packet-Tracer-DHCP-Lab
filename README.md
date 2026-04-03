@@ -1,4 +1,4 @@
-# Packet-Tracer-DHCP-Lab
+# Fundamentals OF Networking
 This is the practical DHCP Packet Tracer Lab Session
 
 Centralized DHCP Server Lab 
