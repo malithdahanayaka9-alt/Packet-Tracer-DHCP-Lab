@@ -1,5 +1,6 @@
 # Packet-Tracer-DHCP-Lab
 This is the practical DHCP Packet Tracer Lab Session
+
 Centralized DHCP Server Lab 
 
 This Projet demonstrates how to configure a star topology network with a dedicated DHCP server in Cisco Packet Tracer.
